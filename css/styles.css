@@ -26,18 +26,6 @@ body {
   padding-left: 15px;
   padding-right: 15px;
 }
-/* глобальный сброс margin, padding */
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-p,
-ul {
-  margin: 0;
-  padding: 0;
-}
 .link {
   text-decoration: none;
 }
