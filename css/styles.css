@@ -432,10 +432,9 @@ ul {
   background-color: var(--hero-background-color);
 }
 
-.footer-flex {
+.footer.container {
   display: flex;
-  padding: 20px 0px 10px 0px;
-  align-items: center;
+  align-items: baseline;
 }
 
 .footer-social-text {
