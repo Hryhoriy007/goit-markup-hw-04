@@ -432,7 +432,7 @@ ul {
   background-color: var(--hero-background-color);
 }
 
-.footer.container {
+.footer .container {
   display: flex;
   align-items: baseline;
 }
